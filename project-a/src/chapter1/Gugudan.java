@@ -9,7 +9,7 @@ public class Gugudan {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		System.out.println("*^^*");
 		System.out.println("gugudanfrom:");
 		Scanner sc = new Scanner(System.in);
 		int i = sc.nextInt();
@@ -25,3 +25,4 @@ public class Gugudan {
 }
 
 //Hello, World!
+//foobar
